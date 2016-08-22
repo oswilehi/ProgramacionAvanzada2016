@@ -1,0 +1,6 @@
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\bin\Debug\Sesion20160822.exe.config
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\bin\Debug\Sesion20160822.exe
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\bin\Debug\Sesion20160822.pdb
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\obj\Debug\Sesion20160822.csprojResolveAssemblyReference.cache
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\obj\Debug\Sesion20160822.exe
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\Sesion20160822\obj\Debug\Sesion20160822.pdb
