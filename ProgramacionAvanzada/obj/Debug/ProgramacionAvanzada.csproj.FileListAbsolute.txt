@@ -1,0 +1,2 @@
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\ProgramacionAvanzada\bin\Debug\ProgramacionAvanzada.exe.config
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\ProgramacionAvanzada\bin\Debug\ProgramacionAvanzada.exe.config
