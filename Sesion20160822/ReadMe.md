@@ -1,10 +1,9 @@
-﻿# Programacion Avanzada
+﻿# Advanced Programing 
 ## August 22nd, 2016
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Date        | Subject           | Grade  |
+| ------------- |-------------| -----:|
+| 11/05/2009      | Software Engineering |  90 |
+| 11/05/2009      | Financial Analysis |  85 |
+| 11/05/2009      | Project Managment |  87 |
 
