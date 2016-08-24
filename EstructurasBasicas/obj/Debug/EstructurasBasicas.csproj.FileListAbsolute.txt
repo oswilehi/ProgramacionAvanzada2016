@@ -1,0 +1,6 @@
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\bin\Debug\EstructurasBasicas.exe.config
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\obj\Debug\EstructurasBasicas.csprojResolveAssemblyReference.cache
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\bin\Debug\EstructurasBasicas.exe
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\bin\Debug\EstructurasBasicas.pdb
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\obj\Debug\EstructurasBasicas.exe
+C:\Users\boris\OneDrive\Documents\ProgramacionAvanzada\programacion-avanzada-2016\EstructurasBasicas\obj\Debug\EstructurasBasicas.pdb
