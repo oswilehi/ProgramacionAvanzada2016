@@ -5,8 +5,8 @@
 We used Markdown as an example of internal documentation and a proper way to 
 describe our released features.
 
-As an exercise for markdown I requestedThis is a Markdown example of tables using their
-last semester as an example. This are not my actual grades :p
+As an exercise for markdown I requested an example of tables using their
+last semester´s grades as an example. _This are not my actual grades_ :p
 
 | Date        | Subject           | Grade  |
 | ------------- |-------------| -----:|
