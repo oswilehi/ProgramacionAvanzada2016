@@ -7,6 +7,7 @@ describe our released features.
 
 As an exercise for markdown I requestedThis is a Markdown example of tables using their
 last semester as an example. This are not my actual grades :p
+
 | Date        | Subject           | Grade  |
 | ------------- |-------------| -----:|
 | 11/05/2009      | Software Engineering |  90 |
