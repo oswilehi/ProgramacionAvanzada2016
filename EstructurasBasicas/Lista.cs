@@ -13,7 +13,7 @@ namespace EstructurasBasicas
 
         public int Count { get { return count; } }
 
-        public void Initialize(int size)
+        public Lista(int size)
         {
             count = 0;
             elements = new int[size];
@@ -23,8 +23,7 @@ namespace EstructurasBasicas
         {
             if (count < elements.Length)
             {
-                elements[count] = newElement;
-                count++;
+                elements[count++] = newElement;                
                 return true;
             }
             return false;
@@ -51,18 +50,12 @@ namespace EstructurasBasicas
 
         public int FirstElement()
         {
-            if (count > 0)
-                return elements[0];
-            return 0;
+            return count > 0 ? elements[0] : 0;
         }
 
         public int LastElement()
         {
-            if (count > 0)
-                return elements[count - 1];
-            else
-                return 0;
-
+            return count > 0 ? elements[count - 1] : 0;           
         }
 
     }

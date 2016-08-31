@@ -16,7 +16,7 @@ namespace EstructurasBasicas
             get { return count; }
         }
 
-        public void Initialize(int size)
+        public Cola(int size)
         {
             count = 0;
             elements = new int[size];
@@ -26,8 +26,7 @@ namespace EstructurasBasicas
         {
             if (count < elements.Length)
             {
-                elements[count] = newElement;
-                count++;
+                elements[count++] = newElement;                
                 return true;
             }
             return false;
