@@ -35,3 +35,42 @@ We started by setting the constraints that are set in a Queue, basically **_FIFO
   * Initialize  
   * Queue
   * Dequeue
+  
+### Auguust 31st, 2016
+Using the data structures explaining during the lecture
+
+Exercise # 1
+Create the following instances. 
+* 1 list of integers. (10 elements)
+* 1 stack of integers. (10 elements)
+* 1 queue of integers. (10 elements)
+
+Add 10 random elements from 1 to 100 to the list.
+Traverse the list from beggining to end, for each element greater than 50 add it to 
+the stack, else add it to the queue.
+
+Exercise # 2
+Create the following instances. 
+* 1 list of integers. (100 elements)
+* 3 queues of integers. (100 elements)
+
+Add 100 random elements from 1 to 100 to the list.
+Traverse the list from beggining to end, for each element that is even add it to queue 1, 
+for  each element that is a prime number add it to queue 2, for each element that is odd
+add it to queue 3.
+
+Ejercicio # 3
+Create the class Student with at least the following attributes.
+* Name
+* Study Program
+* Semester he/she is currently studying.
+
+Create the following instances. 
+* 1 list of type Student. (10 elements)
+* 2 queues of type Student.(10 elements)
+
+According to a regular time table for URL student, traverse the list of students and 
+add to queue 1 those whom attend during the morning and to queue 2 those who attend during
+the evening.
+
+
