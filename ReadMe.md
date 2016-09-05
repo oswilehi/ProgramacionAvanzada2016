@@ -36,8 +36,10 @@ We started by setting the constraints that are set in a Queue, basically **_FIFO
   * Queue
   * Dequeue
   
-### Auguust 31st, 2016
-Using the data structures explaining during the lecture
+### August 31st, 2016
+We introduced the stack data structure, we analyzed how this structure contrasts with the Queue as it uses **_LIFO (List In First Out)_**
+
+After presenting these 3 basic structures and implementing them using arrays the following exersices were presented.
 
 Exercise # 1
 Create the following instances. 
@@ -59,7 +61,7 @@ Traverse the list from beggining to end, for each element that is even add it to
 for  each element that is a prime number add it to queue 2, for each element that is odd
 add it to queue 3.
 
-Ejercicio # 3
+Ejercise # 3
 Create the class Student with at least the following attributes.
 * Name
 * Study Program
