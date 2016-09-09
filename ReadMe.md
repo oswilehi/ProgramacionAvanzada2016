@@ -74,5 +74,14 @@ Create the following instances.
 According to a regular time table for URL student, traverse the list of students and 
 add to queue 1 those whom attend during the morning and to queue 2 those who attend during
 the evening.
+### September 5th, 2016
+We introduced the principles of recursivity, its several definitions, advantages and disadvantages.
+* We made examples on the board of how a recursive function works by making as many iterations as it was neccessary.
+* We sketched a stack on the board in order to show how a computer solves a recursive function piling up every calling to a previous value of the function until reaching the trivial/initial condition.
 
-
+### September 7th, 2016
+We challenged the students to implement the following functions, applying recursivity:
+* Fibonacci (0, 1, 1, 2...)
+* Inversion of an string (Input->Boris Output->Sirob)
+* Product of the elements an array.
+* G(x,y) = { G(x,y) = 1 / G(x-y, x+1) if x >= y ; 2x-y if x < y
