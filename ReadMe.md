@@ -74,6 +74,7 @@ Create the following instances.
 According to a regular time table for URL student, traverse the list of students and 
 add to queue 1 those whom attend during the morning and to queue 2 those who attend during
 the evening.
+
 ### September 5th, 2016
 We introduced the principles of recursivity, its several definitions, advantages and disadvantages.
 * We made examples on the board of how a recursive function works by making as many iterations as it was neccessary.
