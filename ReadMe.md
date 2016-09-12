@@ -88,5 +88,5 @@ We challenged the students to implement the following functions, applying recurs
 * Product of the elements an array.
 * G(x,y) = { G(x,y) = 1 / G(x-y, x+1) if x >= y ; 2x-y if x < y
 
-### September 12th
+### September 12th, 2016
 We reviewed how to represent recursive calls using tree-like diagrams. After finishing clearing up quesitons about recursion we  changed topic and started discussing about how memeory works in computers. Topics covered included memory hierarchy, memory registers, direct access memory and random access memory. We finalized with the memory layout of a program (of C program). This will serve as an introduction to dynamic memory 
