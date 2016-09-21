@@ -1,0 +1,6 @@
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\bin\Debug\Exam Functions.exe.config
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\bin\Debug\Exam Functions.exe
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\bin\Debug\Exam Functions.pdb
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\obj\Debug\Exam Functions.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\obj\Debug\Exam Functions.exe
+C:\Users\Oscar\Desktop\Github\Exam Functions\Exam Functions\obj\Debug\Exam Functions.pdb
