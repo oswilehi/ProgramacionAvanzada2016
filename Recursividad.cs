@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ResolucionParcial1
+namespace EjerciciosdeRecursividad
 {
     class Recursividad
     {
