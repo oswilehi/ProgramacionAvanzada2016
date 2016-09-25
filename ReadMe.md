@@ -119,3 +119,10 @@ If the condition above is met, we will return false because it means that the nu
 If the division is not exact we will decrease the divisor 1 number so we can continue with the successive divisions until one of the conditions can be met. 
 
 Also, in the project it is a method with “x” as parameter (x is the number that will be evaluated). This method calls the “Prim” function so we can return the result. 
+
+### September 21th, 2016
+Day off.
+
+### September 26th, 2016
+After an overview of how memory hierarchy works, we started to learn C++ as it's memory management is more transparent to the programmer *unlike .net languages*. 
+After a quick introduction on how to set up a C++ project we introduce the concept of pointers and its operators.
