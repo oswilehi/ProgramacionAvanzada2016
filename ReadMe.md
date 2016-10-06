@@ -126,3 +126,13 @@ Day off.
 ### September 26th, 2016
 After an overview of how memory hierarchy works, we started to learn C++ as it's memory management is more transparent to the programmer *unlike .net languages*. 
 After a quick introduction on how to set up a C++ project we introduce the concept of pointers and its operators.
+
+### September 28th, 2016
+Day off.
+
+### October 3rd, 2016
+"We have talked about pointers, but not about their practical application..." - after such statement, we mention their application representing queues and stacks.
+"If we delete a position in the list, how do we know where is the empty element...?"
+Basically, we talked about the concept of a ***linked list***, the type of structure that
+allows to implement dynamic stacks and queues using pointers.
+Homework was to look up what is a ***double linked list***...
