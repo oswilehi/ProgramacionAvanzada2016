@@ -132,7 +132,9 @@ Day off.
 
 ### October 3rd, 2016
 "We have talked about pointers, but not about their practical application..." - after such statement, we mention their application representing queues and stacks.
+
 "If we delete a position in the list, how do we know where is the empty element...?"
+
 Basically, we talked about the concept of a ***linked list***, the type of structure that
 allows to implement dynamic stacks and queues using pointers.
 Homework was to look up what is a ***double linked list***...
