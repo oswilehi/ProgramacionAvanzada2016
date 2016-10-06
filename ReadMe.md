@@ -147,3 +147,5 @@ Also, we note that the elements in a **double linked list** have a reference to 
 
 * *"What would happen if we look for an element in a list that is not double-linked...?"* It would be necessary to start from the begginning. For example, if we want to look for an element 2 nodes behind... a node wouldn't know how to go backwards; but if it is double-linked everything changes since it will have a *next* and *previous* property.
 
+Furthermore, we made a couple of exercises applying pointers.
+
