@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Node.cpp
+  LinkedList.cpp
+  DoublyLinkedList.cpp
+c:\users\oscar\desktop\github\linkedlist\linkedlist\doublylinkedlist.h(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  LinkedList.vcxproj -> C:\Users\Oscar\Desktop\Github\LinkedList\Debug\LinkedList.exe
+  LinkedList.vcxproj -> C:\Users\Oscar\Desktop\Github\LinkedList\Debug\LinkedList.pdb (Full PDB)
