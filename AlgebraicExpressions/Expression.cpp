@@ -77,16 +77,21 @@ BinaryTreeNode* Expression::prefixToBinaryTree(string prefix)
 	static int index = 0;
 	BinaryTreeNode* tree = new BinaryTreeNode();
 	string currentElement = prefix.substr(index++,1);
-	if (isDigit(currentElement))
+	
+	if (isOperator(currentElement))
 	{
 		tree->value = currentElement;
-		return tree;
-	}
-	else
-	{
 		tree->left = prefixToBinaryTree(prefix);
 		tree->right = prefixToBinaryTree(prefix);
 	}	
+
+	if (isDigit(currentElement))
+	{
+		tree->value = currentElement;
+	}
+
+	return tree;
+
 }
 
 string Expression::removeExpression(string exp)

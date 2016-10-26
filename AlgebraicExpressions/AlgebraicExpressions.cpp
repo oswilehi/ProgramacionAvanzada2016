@@ -11,6 +11,13 @@ using namespace std;
 int main()
 {
 	string expression = "1*2+3/4";//+*12/34
+	/*
+			+*12/34
+				 +
+			*		/
+		1		2 3		4
+
+	*/
 	Expression exp;
 	string post, pre;
 	post = exp.toPostfix(expression);
